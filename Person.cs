@@ -9,5 +9,7 @@ namespace Final
     internal class Person
     {
         private int name;
+        private int age;
+        
     }
 }
